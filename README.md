@@ -1,11 +1,11 @@
 `     i'm dennzlak - i like coding.    `
 <br>
-<hr width="30%">
+<hr width="100%">
 
 <table>
-  <tr>
-    <td valign="center"><img src="o2.jpg"></td>
-    <td valign="center"><img src="1.png"></td>
+  <tr width="40%">
+    <td valign="center"><img src="o3.jpg"></td>
+    <td valign="center"><img src="o4.png"></td>
   </tr>
 </table>
 <hr width="30%">
