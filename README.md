@@ -1,5 +1,5 @@
 <hr width="99%"></hr>
-<code>                                              i'm dennzlak - i like coding.                                               </code>
+<code align="center">                                              i'm dennzlak - i like coding.                                               </code>
 <br>
 <hr width="99%">
 
