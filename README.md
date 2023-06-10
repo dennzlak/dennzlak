@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td valign="center"><img src="o.jpg" width="428px" height="428px"></td>
+    <td valign="center"><img src="o2.jpg"></td>
     <td valign="center"><img src="1.png"></td>
   </tr>
 </table>
